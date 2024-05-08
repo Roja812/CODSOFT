@@ -1,4 +1,4 @@
-#Task-1 Caculator
+#Task-2 Caculator
 def calculator_function(num1,num2,choice):
     if choice == 1: 
         print("The Addition of The Values are :", num1+num2)
