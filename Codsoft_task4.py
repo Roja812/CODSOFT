@@ -1,4 +1,4 @@
-#Task-2 Rock Paper Scissor
+#Task-4 Rock Paper Scissor
 import random 
 print("Welcome to the Game Rock,Paper and Scissor")
 def computer_choice():
